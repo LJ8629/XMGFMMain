@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XMGFMMain_Example' do
+  pod 'XMGFMMain', :path => '../'
+
+  target 'XMGFMMain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
