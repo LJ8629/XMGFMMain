@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
    主骨架, 包含基本的骨架结构.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/XMGFMMain'
+  s.homepage         = 'https://coding.net/u/seemygo_wangshunzi/p/XMGFMMain'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '王顺子' => 'test@qq.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/XMGFMMain.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://git.coding.net/seemygo_wangshunzi/XMGFMMain.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
