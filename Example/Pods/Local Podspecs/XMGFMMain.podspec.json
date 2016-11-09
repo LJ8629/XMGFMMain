@@ -1,0 +1,32 @@
+{
+  "name": "XMGFMMain",
+  "version": "0.1.0",
+  "summary": "A short description of XMGFMMain.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/XMGFMMain",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王顺子": "test@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/XMGFMMain.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XMGFMMain/Classes/**/*",
+  "resource_bundles": {
+    "XMGFMMain": [
+      "XMGFMMain/Assets/*"
+    ]
+  },
+  "dependencies": {
+    "XMGFMBase/Category": [
+
+    ]
+  }
+}

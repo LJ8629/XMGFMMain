@@ -1,3 +1,5 @@
+source 'git@git.coding.net:seemygo_wangshunzi/YIQISpec.git'
+source 'https://github.com/CocoaPods/Specs.git'  #官方仓库的地址
 use_frameworks!
 
 target 'XMGFMMain_Example' do

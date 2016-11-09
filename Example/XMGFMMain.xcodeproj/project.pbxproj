@@ -22,6 +22,9 @@
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
+		7B2F52AA1DD341B200086E1A /* TestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2F52A71DD341B200086E1A /* TestVC.m */; };
+		7B2F52AB1DD341B200086E1A /* TestVC2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2F52A91DD341B200086E1A /* TestVC2.m */; };
+		7B2F52AD1DD3428700086E1A /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B2F52AC1DD3428700086E1A /* Launch Screen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -38,7 +41,7 @@
 /* Begin PBXFileReference section */
 		0DF0E239E40917DD5E45CE64 /* Pods-XMGFMMain_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMGFMMain_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMGFMMain_Example/Pods-XMGFMMain_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4948109B1652869228A7CF2F /* Pods_XMGFMMain_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMGFMMain_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D2F87E2A2EC5732F4C08E60 /* XMGFMMain.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XMGFMMain.podspec; path = ../XMGFMMain.podspec; sourceTree = "<group>"; };
+		4D2F87E2A2EC5732F4C08E60 /* XMGFMMain.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XMGFMMain.podspec; path = ../XMGFMMain.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* XMGFMMain_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XMGFMMain_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,10 +61,15 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		6AD3E3863101B19FFA6F1C5E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6AD3E3863101B19FFA6F1C5E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		76E2404F9D336324DC9D76CF /* Pods-XMGFMMain_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMGFMMain_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMGFMMain_Tests/Pods-XMGFMMain_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		7B2F52A61DD341B200086E1A /* TestVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestVC.h; sourceTree = "<group>"; };
+		7B2F52A71DD341B200086E1A /* TestVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestVC.m; sourceTree = "<group>"; };
+		7B2F52A81DD341B200086E1A /* TestVC2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestVC2.h; sourceTree = "<group>"; };
+		7B2F52A91DD341B200086E1A /* TestVC2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestVC2.m; sourceTree = "<group>"; };
+		7B2F52AC1DD3428700086E1A /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		93DD3897E3607FA268A602A4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		93DD3897E3607FA268A602A4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CA91E4B89348E1074FEA5A3C /* Pods-XMGFMMain_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMGFMMain_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-XMGFMMain_Example/Pods-XMGFMMain_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D270FD54F77F82E2C983BCBC /* Pods-XMGFMMain_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMGFMMain_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-XMGFMMain_Tests/Pods-XMGFMMain_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		FA43D2BECD601294F021DB78 /* Pods_XMGFMMain_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMGFMMain_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -135,6 +143,11 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* XMGViewController.h */,
 				6003F5A6195388D20070C39A /* XMGViewController.m */,
+				7B2F52A61DD341B200086E1A /* TestVC.h */,
+				7B2F52A71DD341B200086E1A /* TestVC.m */,
+				7B2F52A81DD341B200086E1A /* TestVC2.h */,
+				7B2F52A91DD341B200086E1A /* TestVC2.m */,
+				7B2F52AC1DD3428700086E1A /* Launch Screen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
 			);
@@ -278,6 +291,7 @@
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
+				7B2F52AD1DD3428700086E1A /* Launch Screen.storyboard in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -390,6 +404,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B2F52AB1DD341B200086E1A /* TestVC2.m in Sources */,
+				7B2F52AA1DD341B200086E1A /* TestVC.m in Sources */,
 				6003F59E195388D20070C39A /* XMGAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* XMGViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
@@ -512,7 +528,6 @@
 			baseConfigurationReference = 0DF0E239E40917DD5E45CE64 /* Pods-XMGFMMain_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XMGFMMain/XMGFMMain-Prefix.pch";
 				INFOPLIST_FILE = "XMGFMMain/XMGFMMain-Info.plist";
@@ -528,7 +543,6 @@
 			baseConfigurationReference = CA91E4B89348E1074FEA5A3C /* Pods-XMGFMMain_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XMGFMMain/XMGFMMain-Prefix.pch";
 				INFOPLIST_FILE = "XMGFMMain/XMGFMMain-Info.plist";
