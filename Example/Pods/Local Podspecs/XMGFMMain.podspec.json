@@ -1,9 +1,9 @@
 {
   "name": "XMGFMMain",
   "version": "0.1.0",
-  "summary": "A short description of XMGFMMain.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/XMGFMMain",
+  "summary": "主骨架",
+  "description": "主骨架, 包含基本的骨架结构.",
+  "homepage": "https://coding.net/u/seemygo_wangshunzi/p/XMGFMMain",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "王顺子": "test@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/XMGFMMain.git",
+    "git": "https://git.coding.net/seemygo_wangshunzi/XMGFMMain.git",
     "tag": "0.1.0"
   },
   "platforms": {

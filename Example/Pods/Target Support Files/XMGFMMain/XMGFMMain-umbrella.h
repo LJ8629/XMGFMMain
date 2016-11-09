@@ -4,6 +4,7 @@
 
 #import "XMGNavigationController.h"
 #import "XMGTabBarController.h"
+#import "MainModuleAPI.h"
 #import "XMGMiddleView.h"
 #import "XMGNavBar.h"
 #import "XMGTabBar.h"

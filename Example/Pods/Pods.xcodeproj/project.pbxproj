@@ -7,47 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		066D9CDDF6E142D6318647ABDD3AFD2C /* XMGNavBar.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C4E419095CF3574A08952265CEEC96 /* XMGNavBar.m */; };
 		068C00E30418D506FEA0B2EEE423A43D /* XMGFMBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91B7DC2C32992DC802A6A23B5E63FD1E /* XMGFMBase.framework */; };
 		06F568B5747CACB66E0EAB65228D6C1B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 156E12C04CFAC770BA00567C9DCC5EF8 /* Foundation.framework */; };
 		0EA1E7B17E4F9DE791C22A5123258C59 /* UIImage+XMGImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 05C29DDC89651B65423A83FA8249F905 /* UIImage+XMGImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		11D02D680645399777A6F4943DF7BDE1 /* Pods-XMGFMMain_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D7F66E01AD335DD11A3C42417109FA56 /* Pods-XMGFMMain_Example-dummy.m */; };
-		15B4BCE23BED07AA2DEBABBCD5C02E84 /* XMGTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = D8E930B41CBD4AEECC78DD615A26AE64 /* XMGTabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1CC8D53B3696F3AE1CCB863643B86585 /* tabbar_np_shadow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91C3249374958D57E493D1E5661B02F1 /* tabbar_np_shadow@2x.png */; };
+		24B47B2CDF2B408992FC27111BB671FA /* XMGNavBar.h in Headers */ = {isa = PBXBuildFile; fileRef = E09FB7779B299EA4E171D6CE1FAF6BEF /* XMGNavBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2D398A7CBDDF2917FAEF9A74DE6325AF /* XMGFMBase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C81EF92EE86585C27C5115EAB3862083 /* XMGFMBase-dummy.m */; };
 		2FF58039C2E45A3A825A93E27712A30D /* tabbar_bg@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F1F34D030631827320C5B1B5DC51095 /* tabbar_bg@3x.png */; };
-		3274103CF74F337AD26234E7869CD583 /* XMGNavBar.h in Headers */ = {isa = PBXBuildFile; fileRef = A946DC6789F2E475C25D1F030E02D960 /* XMGNavBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3DFEDADA8AF86D3E5E60614855F23D26 /* tabbar_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 566F82A6A732E64BE5AB97E72B2136B4 /* tabbar_bg@2x.png */; };
 		3FC38E8064C35F5F14AB616CBADF5C6E /* CALayer+PauseAimate.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C79E61522C84BBB73B0A9DB3C3327DB /* CALayer+PauseAimate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		49FEE10F8CD6DEF76563D99D5E6B5185 /* tabbar_np_play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 137FB937B7DF3435E4186EFE637A3325 /* tabbar_np_play@2x.png */; };
-		51A6D297C1AF12E2BF60CAC4D1253D80 /* XMGTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 62E0D8D8F8BBB8C74CCABE5BCD4969B1 /* XMGTabBar.m */; };
+		4ABB883356BB99236B3678A5E7B9AA15 /* XMGTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = D7B4B5B945A6F4B9DED4B62BFB048306 /* XMGTabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4EDAEE3D0B0F6D28D76EEBA1EA781FE3 /* XMGTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98DF9FE9FD75FEA05DED00ACCF79BA87 /* XMGTabBarController.m */; };
 		51E4EB35715217E4ED37CC198BA64A62 /* tabbar_np_playshadow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4668467B07B7B42959B8B5D034B59CF /* tabbar_np_playshadow@3x.png */; };
-		5DF24412497E631ED1884E7BB3A3D277 /* XMGTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = B28D44E9D83601F6A017559ECD9CF50F /* XMGTabBarController.m */; };
+		5324CBE3E3D8976BED5844A1FC76315A /* XMGNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D805C102745EAE0176F5EE72DED8F184 /* XMGNavigationController.m */; };
+		5A9FF0039356AD8F36D03B99C1CD0E09 /* XMGMiddleView.xib in Sources */ = {isa = PBXBuildFile; fileRef = B5D6CA4228317A6DB3AEA2D160707B71 /* XMGMiddleView.xib */; };
+		67F28FAE30050734FE96B0EFAC199ABE /* MainModuleAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BE8F525E38535ACA5D392BEF0E2F047 /* MainModuleAPI.m */; };
 		6A461EF0DA1B249E2B5F74C775102575 /* Pods-XMGFMMain_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 01E142CFF83C11ADABE51AA9A9547404 /* Pods-XMGFMMain_Tests-dummy.m */; };
+		6BC5883CD24E2675D67DCF07D3242609 /* XMGNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 70209228C7B88749D62F28BAFD0A5561 /* XMGNavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6DA2CECB594DA5EDE6051896D28A03CA /* UIView+XMGLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 098A3E1E38E7F6141374EC97542619D7 /* UIView+XMGLayout.m */; };
+		77848949B32D01456100BBAF1483CAAD /* XMGFMMain-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EF24AB0F9EC163A3C326E912EF370441 /* XMGFMMain-dummy.m */; };
 		7DA0B76E1908AC9682F2E9A8BDA4F2A1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 156E12C04CFAC770BA00567C9DCC5EF8 /* Foundation.framework */; };
-		8178E7074E59BFFE79E5C8560D3A877C /* XMGFMMain-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EF24AB0F9EC163A3C326E912EF370441 /* XMGFMMain-dummy.m */; };
 		918B245D451CA5335D6147EBB021C769 /* UIImage+XMGImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4495E8B0F6AF5010453559DDE12F0E1F /* UIImage+XMGImage.m */; };
-		925E62BBFD14D705ECFFCC439FFE36E8 /* XMGMiddleView.xib in Sources */ = {isa = PBXBuildFile; fileRef = 586FF35822149893EFB576784AF2A6A7 /* XMGMiddleView.xib */; };
+		92801204B47C556EFF306C14392180B2 /* XMGTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = D5C1DE64AFA9F4F3FD623CD7798BBC21 /* XMGTabBar.m */; };
 		9733080A349D641A51B589AF15DA5783 /* Pods-XMGFMMain_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C9EF05948C9CE873B92F9B22EC1101C3 /* Pods-XMGFMMain_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9C0A0EE74B1F159B52890680D2575832 /* XMGFMBase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 31D3F200F627476C0F0B0755CB7F6AF4 /* XMGFMBase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A1258E8C81FC9C61A5577C3FFE6A8AC6 /* Pods-XMGFMMain_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CE328F45E8C891B880497B5DED0BD037 /* Pods-XMGFMMain_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A711BE33652D85DBA4971E9F70791840 /* XMGMiddleView.h in Headers */ = {isa = PBXBuildFile; fileRef = A906A0B069004FDD0F9E7586BCB264BE /* XMGMiddleView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A1A41F6E2859A64FCA3D35F7807145B6 /* MainModuleAPI.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FE718F6E866A86D68BD664BB7B21342 /* MainModuleAPI.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A9652EC7CB3687F20A2863CDA198695E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 156E12C04CFAC770BA00567C9DCC5EF8 /* Foundation.framework */; };
 		AA6A78BF257E0B2D7B959959A2382FE0 /* tabbar_np_normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F5D1A8FFA29D3E95A611DA2D28238E4 /* tabbar_np_normal@2x.png */; };
 		ACF84647BAB23B42CC81D86AFA4BBBE8 /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A555E05A33D94D7647B609B2658123 /* CALayer+PauseAimate.m */; };
-		AF914A1AC96A9223AF797FAB0D4E5C8B /* XMGNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = F502B78C556961E732FF99E18C33CE76 /* XMGNavigationController.m */; };
+		AD76C3AAF17DB3CC95D7C75F4BA5310E /* XMGMiddleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 63965D85680AEEBC9E2D3936D446C38B /* XMGMiddleView.m */; };
 		B42F81157C9D95816B5A6B2CC9476B04 /* tabbar_np_playshadow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EBE41E75899857DACA38A06EDC0DB238 /* tabbar_np_playshadow@2x.png */; };
 		BE06B8EAEFC95276DE2FF6366A6A9E40 /* UIView+XMGLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = F83F226DBC2A13980ABCCEB1E3B05617 /* UIView+XMGLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BEAC43FD6D27DE1A1D01D4296F537A94 /* tabbar_np_play@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F94831D54264BF5115F1D1EFACDC53BC /* tabbar_np_play@3x.png */; };
 		C3683A2911EF36C6AC4C9BB07F516540 /* tabbar_np_normal@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4568D7C94CDA5F0A4C4726391B0F1E3F /* tabbar_np_normal@3x.png */; };
-		C37CCDD67E60F5A4880E1F2A19C598B0 /* XMGNavBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D630476330780CE9DF66CC5AF10CBA7 /* XMGNavBar.m */; };
-		C4B470D98D899CC35103080DB7A7FA2C /* XMGMiddleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F46C79BC78A0C713F3C9A3CF4985F27 /* XMGMiddleView.m */; };
-		C51BC2E805E48C2321EAC81532CB74A0 /* XMGNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F62B75AF4F2E515E29AC2D26DC47081 /* XMGNavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C597EB756F3EBB667448C4F117F7EDA5 /* XMGFMMain.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AC352947C4EED35EBD7E780A32D4DA0E /* XMGFMMain.bundle */; };
-		D09E1F4F503AF457B9588BA69CA36BCB /* XMGTabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = 537D21AC988CEAF9B537F73897FD4C55 /* XMGTabBarController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DA48DB18FE9D9FBA4F583F7B142E190F /* XMGFMMain-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 49D0FBEB8EB7F0AF14ECB568626C387F /* XMGFMMain-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C647C18875A7D47546DDD28C0081580A /* XMGMiddleView.h in Headers */ = {isa = PBXBuildFile; fileRef = FB9F95EB599B09DA1AC5A53EA947A602 /* XMGMiddleView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3F6B4F1696941E6ABE4E0B0F210E4AA /* XMGTabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = 441B5FD74A003BE517B3F7E0A054F48D /* XMGTabBarController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5CAD1F824C6DC0D7EB7B4384D5E21CB /* header_default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C6F30E9725A0E0077974F41144F55791 /* header_default@2x.png */; };
 		E5FF3B418C4C65DA2F1CF9BEF7857A4F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 156E12C04CFAC770BA00567C9DCC5EF8 /* Foundation.framework */; };
+		F0963779506FEAE073AE9A6BF1C769CB /* XMGFMMain-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 49D0FBEB8EB7F0AF14ECB568626C387F /* XMGFMMain-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F1A99B9C825EEE701103178EACF0CD1D /* zxy_icon@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1AFD87FD3209C9711C4D99535B5EB11A /* zxy_icon@2x.jpg */; };
 		F3F890DE85B71B3F0B7F44E4D4469DCE /* tabbar_np_shadow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3EE7F5D7AB27A0BA6797A78A7A75D3A7 /* tabbar_np_shadow@3x.png */; };
 		F5C8600E81FF1DA63FCC9CA4589C53CD /* tabbar_np_loop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B155B069564523F07004AEA5F69FDB4 /* tabbar_np_loop@2x.png */; };
@@ -92,6 +94,7 @@
 		06A404BDE7C9B13EC431C884F9F9ABFF /* Pods-XMGFMMain_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XMGFMMain_Tests-resources.sh"; sourceTree = "<group>"; };
 		08AE28BC65587542C888C0E71C2434FC /* ResourceBundle-XMGFMMain-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-XMGFMMain-Info.plist"; sourceTree = "<group>"; };
 		098A3E1E38E7F6141374EC97542619D7 /* UIView+XMGLayout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+XMGLayout.m"; path = "XMGFMBase/Classes/Category/UIView+XMGLayout.m"; sourceTree = "<group>"; };
+		0FE718F6E866A86D68BD664BB7B21342 /* MainModuleAPI.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MainModuleAPI.h; sourceTree = "<group>"; };
 		137FB937B7DF3435E4186EFE637A3325 /* tabbar_np_play@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_play@2x.png"; sourceTree = "<group>"; };
 		156E12C04CFAC770BA00567C9DCC5EF8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		19185E1AF9FDE21676A8AAE056C95472 /* Pods-XMGFMMain_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMGFMMain_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -102,46 +105,44 @@
 		3168BA613E28CC1ED138021B23187E78 /* XMGFMMain-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMGFMMain-prefix.pch"; sourceTree = "<group>"; };
 		31D3F200F627476C0F0B0755CB7F6AF4 /* XMGFMBase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMGFMBase-umbrella.h"; sourceTree = "<group>"; };
 		394ABF3A2D32D621BAD2C793695CBC0B /* Pods-XMGFMMain_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XMGFMMain_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3BE8F525E38535ACA5D392BEF0E2F047 /* MainModuleAPI.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MainModuleAPI.m; sourceTree = "<group>"; };
 		3D7B5F093DE2F1B8A8995FE4B64F34E1 /* Pods-XMGFMMain_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XMGFMMain_Example-frameworks.sh"; sourceTree = "<group>"; };
 		3EE7F5D7AB27A0BA6797A78A7A75D3A7 /* tabbar_np_shadow@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_shadow@3x.png"; sourceTree = "<group>"; };
 		3EE8B16C79EEC61B0091D7AFB0A37F57 /* XMGFMBase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMGFMBase-prefix.pch"; sourceTree = "<group>"; };
+		441B5FD74A003BE517B3F7E0A054F48D /* XMGTabBarController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGTabBarController.h; sourceTree = "<group>"; };
 		4495E8B0F6AF5010453559DDE12F0E1F /* UIImage+XMGImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+XMGImage.m"; path = "XMGFMBase/Classes/Category/UIImage+XMGImage.m"; sourceTree = "<group>"; };
 		4568D7C94CDA5F0A4C4726391B0F1E3F /* tabbar_np_normal@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_normal@3x.png"; sourceTree = "<group>"; };
 		49D0FBEB8EB7F0AF14ECB568626C387F /* XMGFMMain-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMGFMMain-umbrella.h"; sourceTree = "<group>"; };
 		4A61D9F0D6A8D3817A022B7F01BD3627 /* Pods-XMGFMMain_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMGFMMain_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4C79E61522C84BBB73B0A9DB3C3327DB /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CALayer+PauseAimate.h"; path = "XMGFMBase/Classes/Category/CALayer+PauseAimate.h"; sourceTree = "<group>"; };
 		4DC7C26C0198415074388AE66BC0E2F1 /* Pods-XMGFMMain_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-XMGFMMain_Tests.modulemap"; sourceTree = "<group>"; };
-		4F62B75AF4F2E515E29AC2D26DC47081 /* XMGNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGNavigationController.h; sourceTree = "<group>"; };
 		523F8F75B793B1C7726F443B04B28E6F /* XMGFMBase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = XMGFMBase.modulemap; sourceTree = "<group>"; };
-		537D21AC988CEAF9B537F73897FD4C55 /* XMGTabBarController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGTabBarController.h; sourceTree = "<group>"; };
 		566F82A6A732E64BE5AB97E72B2136B4 /* tabbar_bg@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_bg@2x.png"; sourceTree = "<group>"; };
 		5751397250B7589B743A11DC171615A8 /* Pods-XMGFMMain_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XMGFMMain_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		586FF35822149893EFB576784AF2A6A7 /* XMGMiddleView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = XMGMiddleView.xib; sourceTree = "<group>"; };
-		62E0D8D8F8BBB8C74CCABE5BCD4969B1 /* XMGTabBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGTabBar.m; sourceTree = "<group>"; };
 		62FC6A2A1E2F97ACC902E71C551541A2 /* Pods-XMGFMMain_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMGFMMain_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		63965D85680AEEBC9E2D3936D446C38B /* XMGMiddleView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGMiddleView.m; sourceTree = "<group>"; };
 		68A0DC868D67BD336F02FBD1260A062F /* Pods_XMGFMMain_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XMGFMMain_Example.framework; path = "Pods-XMGFMMain_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F1F34D030631827320C5B1B5DC51095 /* tabbar_bg@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_bg@3x.png"; sourceTree = "<group>"; };
+		70209228C7B88749D62F28BAFD0A5561 /* XMGNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGNavigationController.h; sourceTree = "<group>"; };
 		7C5DB85B6E1C84099F79D821EA20EC4C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7D630476330780CE9DF66CC5AF10CBA7 /* XMGNavBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGNavBar.m; sourceTree = "<group>"; };
 		832E2158F28CDDEBCE76D704F55E7CBA /* Pods-XMGFMMain_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XMGFMMain_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		884B24C5074DE4CD24A47FCFFDD26999 /* Pods-XMGFMMain_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XMGFMMain_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		890F57FF4122CA6690D81F28BE231EC8 /* XMGFMMain.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XMGFMMain.framework; path = XMGFMMain.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8F46C79BC78A0C713F3C9A3CF4985F27 /* XMGMiddleView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGMiddleView.m; sourceTree = "<group>"; };
 		8F6B7B9CB6FF91241B7C2D6F5747AFC9 /* Pods_XMGFMMain_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XMGFMMain_Tests.framework; path = "Pods-XMGFMMain_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		91B7DC2C32992DC802A6A23B5E63FD1E /* XMGFMBase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XMGFMBase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		91C3249374958D57E493D1E5661B02F1 /* tabbar_np_shadow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_shadow@2x.png"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		950DEEB72A7670994461DB60C4B81A8D /* tabbar_np_loop@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_loop@3x.png"; sourceTree = "<group>"; };
+		98DF9FE9FD75FEA05DED00ACCF79BA87 /* XMGTabBarController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGTabBarController.m; sourceTree = "<group>"; };
 		9B155B069564523F07004AEA5F69FDB4 /* tabbar_np_loop@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_loop@2x.png"; sourceTree = "<group>"; };
 		A4668467B07B7B42959B8B5D034B59CF /* tabbar_np_playshadow@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_playshadow@3x.png"; sourceTree = "<group>"; };
-		A906A0B069004FDD0F9E7586BCB264BE /* XMGMiddleView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGMiddleView.h; sourceTree = "<group>"; };
-		A946DC6789F2E475C25D1F030E02D960 /* XMGNavBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGNavBar.h; sourceTree = "<group>"; };
 		AC352947C4EED35EBD7E780A32D4DA0E /* XMGFMMain.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = XMGFMMain.bundle; path = XMGFMMain.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACDF60BF87B2C980776C16A699A2871E /* XMGFMBase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XMGFMBase.xcconfig; sourceTree = "<group>"; };
 		AD3FB4C197690442AFDE0D9811B7DFAC /* XMGFMMain.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XMGFMMain.xcconfig; sourceTree = "<group>"; };
 		AFA2F8F46A5BBC9A1A5845F8F3A1B184 /* Pods-XMGFMMain_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XMGFMMain_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B108880A7DBE4D98F9FB99BD6A4A25DE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B28D44E9D83601F6A017559ECD9CF50F /* XMGTabBarController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGTabBarController.m; sourceTree = "<group>"; };
+		B4C4E419095CF3574A08952265CEEC96 /* XMGNavBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGNavBar.m; sourceTree = "<group>"; };
+		B5D6CA4228317A6DB3AEA2D160707B71 /* XMGMiddleView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = XMGMiddleView.xib; sourceTree = "<group>"; };
 		BC2151CE1C4317CBDEBDAC738D0A8875 /* XMGFMBase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XMGFMBase.framework; path = XMGFMBase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1E519EA3E1DD778BE2AB636566FFF01 /* Pods-XMGFMMain_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XMGFMMain_Example-resources.sh"; sourceTree = "<group>"; };
 		C4A555E05A33D94D7647B609B2658123 /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CALayer+PauseAimate.m"; path = "XMGFMBase/Classes/Category/CALayer+PauseAimate.m"; sourceTree = "<group>"; };
@@ -150,14 +151,17 @@
 		C81EF92EE86585C27C5115EAB3862083 /* XMGFMBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XMGFMBase-dummy.m"; sourceTree = "<group>"; };
 		C9EF05948C9CE873B92F9B22EC1101C3 /* Pods-XMGFMMain_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XMGFMMain_Example-umbrella.h"; sourceTree = "<group>"; };
 		CE328F45E8C891B880497B5DED0BD037 /* Pods-XMGFMMain_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XMGFMMain_Tests-umbrella.h"; sourceTree = "<group>"; };
+		D5C1DE64AFA9F4F3FD623CD7798BBC21 /* XMGTabBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGTabBar.m; sourceTree = "<group>"; };
+		D7B4B5B945A6F4B9DED4B62BFB048306 /* XMGTabBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGTabBar.h; sourceTree = "<group>"; };
 		D7F66E01AD335DD11A3C42417109FA56 /* Pods-XMGFMMain_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XMGFMMain_Example-dummy.m"; sourceTree = "<group>"; };
-		D8E930B41CBD4AEECC78DD615A26AE64 /* XMGTabBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGTabBar.h; sourceTree = "<group>"; };
+		D805C102745EAE0176F5EE72DED8F184 /* XMGNavigationController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGNavigationController.m; sourceTree = "<group>"; };
+		E09FB7779B299EA4E171D6CE1FAF6BEF /* XMGNavBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGNavBar.h; sourceTree = "<group>"; };
 		EBE41E75899857DACA38A06EDC0DB238 /* tabbar_np_playshadow@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_playshadow@2x.png"; sourceTree = "<group>"; };
 		EE5B039D182076C8FD3ECC50AE06790E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EF24AB0F9EC163A3C326E912EF370441 /* XMGFMMain-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XMGFMMain-dummy.m"; sourceTree = "<group>"; };
-		F502B78C556961E732FF99E18C33CE76 /* XMGNavigationController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMGNavigationController.m; sourceTree = "<group>"; };
 		F83F226DBC2A13980ABCCEB1E3B05617 /* UIView+XMGLayout.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+XMGLayout.h"; path = "XMGFMBase/Classes/Category/UIView+XMGLayout.h"; sourceTree = "<group>"; };
 		F94831D54264BF5115F1D1EFACDC53BC /* tabbar_np_play@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; path = "tabbar_np_play@3x.png"; sourceTree = "<group>"; };
+		FB9F95EB599B09DA1AC5A53EA947A602 /* XMGMiddleView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMGMiddleView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,21 +208,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		09F78506112E79781B3A59D3CB831B95 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				A906A0B069004FDD0F9E7586BCB264BE /* XMGMiddleView.h */,
-				8F46C79BC78A0C713F3C9A3CF4985F27 /* XMGMiddleView.m */,
-				586FF35822149893EFB576784AF2A6A7 /* XMGMiddleView.xib */,
-				A946DC6789F2E475C25D1F030E02D960 /* XMGNavBar.h */,
-				7D630476330780CE9DF66CC5AF10CBA7 /* XMGNavBar.m */,
-				D8E930B41CBD4AEECC78DD615A26AE64 /* XMGTabBar.h */,
-				62E0D8D8F8BBB8C74CCABE5BCD4969B1 /* XMGTabBar.m */,
-			);
-			name = View;
-			path = View;
-			sourceTree = "<group>";
-		};
 		179842A1B77BFC5837FEE67C03F4BE57 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -234,16 +223,13 @@
 			path = "Example/Pods/Target Support Files/XMGFMMain";
 			sourceTree = "<group>";
 		};
-		2AC9EEB9EFBDA951A5383E6DDB9FADEA /* Controller */ = {
+		43EF774DEA3624A1DB812621A37F828C /* XMGFMMain */ = {
 			isa = PBXGroup;
 			children = (
-				4F62B75AF4F2E515E29AC2D26DC47081 /* XMGNavigationController.h */,
-				F502B78C556961E732FF99E18C33CE76 /* XMGNavigationController.m */,
-				537D21AC988CEAF9B537F73897FD4C55 /* XMGTabBarController.h */,
-				B28D44E9D83601F6A017559ECD9CF50F /* XMGTabBarController.m */,
+				A1FCC8938CB8AD7468D1FE9992356363 /* Classes */,
 			);
-			name = Controller;
-			path = Controller;
+			name = XMGFMMain;
+			path = XMGFMMain;
 			sourceTree = "<group>";
 		};
 		4526F8C1F887BD415AC024C8C1D9F6CE /* Targets Support Files */ = {
@@ -325,15 +311,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		7883DC30A11E9E913A6C6D3A7E9E2FB5 /* XMGFMMain */ = {
-			isa = PBXGroup;
-			children = (
-				D1D97AA2BD4F210574612AD05C095B9B /* Classes */,
-			);
-			name = XMGFMMain;
-			path = XMGFMMain;
-			sourceTree = "<group>";
-		};
 		797C5FB4FCBC820ED964A811342272CF /* Pods-XMGFMMain_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -350,6 +327,16 @@
 			);
 			name = "Pods-XMGFMMain_Tests";
 			path = "Target Support Files/Pods-XMGFMMain_Tests";
+			sourceTree = "<group>";
+		};
+		79ED6836864B48CCCF1E584018E23FCF /* PublicAPI */ = {
+			isa = PBXGroup;
+			children = (
+				0FE718F6E866A86D68BD664BB7B21342 /* MainModuleAPI.h */,
+				3BE8F525E38535ACA5D392BEF0E2F047 /* MainModuleAPI.m */,
+			);
+			name = PublicAPI;
+			path = PublicAPI;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -399,6 +386,21 @@
 			name = Category;
 			sourceTree = "<group>";
 		};
+		9CEBAB1E459984E8CC5017ED92B9139B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FB9F95EB599B09DA1AC5A53EA947A602 /* XMGMiddleView.h */,
+				63965D85680AEEBC9E2D3936D446C38B /* XMGMiddleView.m */,
+				B5D6CA4228317A6DB3AEA2D160707B71 /* XMGMiddleView.xib */,
+				E09FB7779B299EA4E171D6CE1FAF6BEF /* XMGNavBar.h */,
+				B4C4E419095CF3574A08952265CEEC96 /* XMGNavBar.m */,
+				D7B4B5B945A6F4B9DED4B62BFB048306 /* XMGTabBar.h */,
+				D5C1DE64AFA9F4F3FD623CD7798BBC21 /* XMGTabBar.m */,
+			);
+			name = View;
+			path = View;
+			sourceTree = "<group>";
+		};
 		9D21A6E5E141E126F6D116168B891617 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -416,14 +418,27 @@
 			path = XMGFMMain;
 			sourceTree = "<group>";
 		};
-		D1D97AA2BD4F210574612AD05C095B9B /* Classes */ = {
+		A1FCC8938CB8AD7468D1FE9992356363 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				2AC9EEB9EFBDA951A5383E6DDB9FADEA /* Controller */,
-				09F78506112E79781B3A59D3CB831B95 /* View */,
+				B5B6E6B82585EB8A3C9D4E8056F4CE28 /* Controller */,
+				79ED6836864B48CCCF1E584018E23FCF /* PublicAPI */,
+				9CEBAB1E459984E8CC5017ED92B9139B /* View */,
 			);
 			name = Classes;
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		B5B6E6B82585EB8A3C9D4E8056F4CE28 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				70209228C7B88749D62F28BAFD0A5561 /* XMGNavigationController.h */,
+				D805C102745EAE0176F5EE72DED8F184 /* XMGNavigationController.m */,
+				441B5FD74A003BE517B3F7E0A054F48D /* XMGTabBarController.h */,
+				98DF9FE9FD75FEA05DED00ACCF79BA87 /* XMGTabBarController.m */,
+			);
+			name = Controller;
+			path = Controller;
 			sourceTree = "<group>";
 		};
 		DDE54BEE28B5AB5F58A78CB3CB0ED17D /* Frameworks */ = {
@@ -448,7 +463,7 @@
 			children = (
 				9D21A6E5E141E126F6D116168B891617 /* Resources */,
 				179842A1B77BFC5837FEE67C03F4BE57 /* Support Files */,
-				7883DC30A11E9E913A6C6D3A7E9E2FB5 /* XMGFMMain */,
+				43EF774DEA3624A1DB812621A37F828C /* XMGFMMain */,
 			);
 			name = XMGFMMain;
 			path = ../..;
@@ -465,16 +480,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2009983414D2D7373E5F2F2FCE5BF3E5 /* Headers */ = {
+		3915249E44ED37C7F575E1E33C52B027 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA48DB18FE9D9FBA4F583F7B142E190F /* XMGFMMain-umbrella.h in Headers */,
-				A711BE33652D85DBA4971E9F70791840 /* XMGMiddleView.h in Headers */,
-				3274103CF74F337AD26234E7869CD583 /* XMGNavBar.h in Headers */,
-				C51BC2E805E48C2321EAC81532CB74A0 /* XMGNavigationController.h in Headers */,
-				15B4BCE23BED07AA2DEBABBCD5C02E84 /* XMGTabBar.h in Headers */,
-				D09E1F4F503AF457B9588BA69CA36BCB /* XMGTabBarController.h in Headers */,
+				A1A41F6E2859A64FCA3D35F7807145B6 /* MainModuleAPI.h in Headers */,
+				F0963779506FEAE073AE9A6BF1C769CB /* XMGFMMain-umbrella.h in Headers */,
+				C647C18875A7D47546DDD28C0081580A /* XMGMiddleView.h in Headers */,
+				24B47B2CDF2B408992FC27111BB671FA /* XMGNavBar.h in Headers */,
+				6BC5883CD24E2675D67DCF07D3242609 /* XMGNavigationController.h in Headers */,
+				4ABB883356BB99236B3678A5E7B9AA15 /* XMGTabBar.h in Headers */,
+				D3F6B4F1696941E6ABE4E0B0F210E4AA /* XMGTabBarController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -540,10 +556,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A0C7988B1F460C276F96CEF25792C88E /* Build configuration list for PBXNativeTarget "XMGFMMain" */;
 			buildPhases = (
-				D14B24F0168EA46A37DB1A18FCD91307 /* Sources */,
+				02BD908FFB35DFB14B6B0246144BD244 /* Sources */,
 				A724348FE349C65DCAF8F448834A9339 /* Frameworks */,
 				FA6191B441BA07C3BD70652363B3B706 /* Resources */,
-				2009983414D2D7373E5F2F2FCE5BF3E5 /* Headers */,
+				3915249E44ED37C7F575E1E33C52B027 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -653,6 +669,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		02BD908FFB35DFB14B6B0246144BD244 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				67F28FAE30050734FE96B0EFAC199ABE /* MainModuleAPI.m in Sources */,
+				77848949B32D01456100BBAF1483CAAD /* XMGFMMain-dummy.m in Sources */,
+				AD76C3AAF17DB3CC95D7C75F4BA5310E /* XMGMiddleView.m in Sources */,
+				5A9FF0039356AD8F36D03B99C1CD0E09 /* XMGMiddleView.xib in Sources */,
+				066D9CDDF6E142D6318647ABDD3AFD2C /* XMGNavBar.m in Sources */,
+				5324CBE3E3D8976BED5844A1FC76315A /* XMGNavigationController.m in Sources */,
+				92801204B47C556EFF306C14392180B2 /* XMGTabBar.m in Sources */,
+				4EDAEE3D0B0F6D28D76EEBA1EA781FE3 /* XMGTabBarController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		71911643DC6524942E57F8FE95BC8F68 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -673,20 +704,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A461EF0DA1B249E2B5F74C775102575 /* Pods-XMGFMMain_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D14B24F0168EA46A37DB1A18FCD91307 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8178E7074E59BFFE79E5C8560D3A877C /* XMGFMMain-dummy.m in Sources */,
-				C4B470D98D899CC35103080DB7A7FA2C /* XMGMiddleView.m in Sources */,
-				925E62BBFD14D705ECFFCC439FFE36E8 /* XMGMiddleView.xib in Sources */,
-				C37CCDD67E60F5A4880E1F2A19C598B0 /* XMGNavBar.m in Sources */,
-				AF914A1AC96A9223AF797FAB0D4E5C8B /* XMGNavigationController.m in Sources */,
-				51A6D297C1AF12E2BF60CAC4D1253D80 /* XMGTabBar.m in Sources */,
-				5DF24412497E631ED1884E7BB3A3D277 /* XMGTabBarController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
