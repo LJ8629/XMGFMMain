@@ -1,6 +1,6 @@
 PODS:
   - XMGFMBase/Category (0.1.0)
-  - XMGFMMain (0.1.0):
+  - XMGFMMain (0.1.1):
     - XMGFMBase/Category
 
 DEPENDENCIES:
@@ -12,7 +12,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   XMGFMBase: 1c185cbcc3e20ecf29a1be4ef06d736e5e5822b1
-  XMGFMMain: c1bc492ef23110d7b8cec375525eaba582dbacce
+  XMGFMMain: ba2e163dc0271002c6118e3ecc4d70b62e5b1a6d
 
 PODFILE CHECKSUM: ccb1a6cc81e2783e111360b7f4eccbe238696fc9
 

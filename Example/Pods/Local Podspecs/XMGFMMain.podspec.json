@@ -1,6 +1,6 @@
 {
   "name": "XMGFMMain",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "主骨架",
   "description": "主骨架, 包含基本的骨架结构.",
   "homepage": "https://coding.net/u/seemygo_wangshunzi/p/XMGFMMain",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://git.coding.net/seemygo_wangshunzi/XMGFMMain.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

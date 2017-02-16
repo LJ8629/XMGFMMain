@@ -63,6 +63,7 @@
 
         [self addChildViewController:nav];
     }else {
+        vc.tabBarItem = [[UITabBarItem alloc] initWithTitle:nil image:[UIImage originImageWithName:normalImageName] selectedImage:[UIImage originImageWithName:selectedImageName]];
         [self addChildViewController:vc];
     }
 
