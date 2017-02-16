@@ -22,7 +22,7 @@ pod "XMGFMBase"
 
 ## Author
 
-王顺子, 501562071@qq.com
+王顺子, 123@qq.com
 
 ## License
 
