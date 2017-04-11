@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## XMGFMBase
 
-Copyright (c) 2017 王顺子 <123@qq.com>
+Copyright (c) 2017 327574878@qq.com <327574878@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +26,7 @@ THE SOFTWARE.
 
 ## XMGFMMain
 
-Copyright (c) 2016 王顺子 <test@qq.com>
+Copyright (c) 2017 327574878@qq.com <327574878@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

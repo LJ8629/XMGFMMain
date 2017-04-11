@@ -1,6 +1,6 @@
 # XMGFMMain
 
-[![CI Status](http://img.shields.io/travis/王顺子/XMGFMMain.svg?style=flat)](https://travis-ci.org/王顺子/XMGFMMain)
+[![CI Status](http://img.shields.io/travis/327574878@qq.com/XMGFMMain.svg?style=flat)](https://travis-ci.org/327574878@qq.com/XMGFMMain)
 [![Version](https://img.shields.io/cocoapods/v/XMGFMMain.svg?style=flat)](http://cocoapods.org/pods/XMGFMMain)
 [![License](https://img.shields.io/cocoapods/l/XMGFMMain.svg?style=flat)](http://cocoapods.org/pods/XMGFMMain)
 [![Platform](https://img.shields.io/cocoapods/p/XMGFMMain.svg?style=flat)](http://cocoapods.org/pods/XMGFMMain)
@@ -22,8 +22,10 @@ pod "XMGFMMain"
 
 ## Author
 
-王顺子, test@qq.com
+WZC, 327574878@qq.com
 
 ## License
 
 XMGFMMain is available under the MIT license. See the LICENSE file for more info.
+
+
